@@ -1,2 +1,3 @@
 # SimpleCalculator
-Calculator
+Calculator with a bit more css.
+:)
